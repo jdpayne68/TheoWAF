@@ -1,0 +1,3 @@
+#nickname = JP
+#desired income = $500,000
+#group leader = me

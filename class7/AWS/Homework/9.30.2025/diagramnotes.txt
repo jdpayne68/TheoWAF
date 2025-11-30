@@ -1,0 +1,9 @@
+https://mermaid.live/edit#pako:eNpNkM1ugzAQhF_F2jNBBhtC3FNDUA9Npaq9FXKw8IZYBRs5pn8o716gatrbzrczu9KMUFuFIODY2vf6JJ0n-6fKEELyVqPx51W42pZ5awdF9lYqspWtNLU2zWFxbad9mJd39wV5tIpEh5s_vLvi-D8uytu-J4VptEHyjO5N1zjvIYDGaQXCuwED6NB1cpYwztkK_Ak7rEBMo5LutYLKXKZML82Ltd1vzNmhOYE4yvY8qaFX0uNOy8bJ7kodGoUut4PxIDjjyxEQI3yAiFkUMhbRJEpoRmkWxwF8gmCUhxvO1myTrjmbTJcAvpa3NEw5SzOeUc7ZJuF8HQAq7a17-Gl2KfjyDXhrbAA
+
+https://softtuts.com/how-to-create-diagrams-in-obsidian-notes/
+
+https://help.obsidian.md/advanced-syntax#Diagram
+
+https://mermaid.js.org/syntax/flowchart.html
+
+--------------------------------
